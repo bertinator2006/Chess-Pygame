@@ -1,2 +1,2 @@
 # Chess-Pygame
- A chess clone made by chess
+A chess project with Integrated minimax computer player
